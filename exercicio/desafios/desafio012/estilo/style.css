@@ -56,8 +56,9 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px
-
-    
+}
+section > p {
+    padding-bottom: 2em;
 }
 
 section.normal{
