@@ -34,7 +34,7 @@ High-res laptop or desktop: 1920 x 1080.
 
  }
 
- @media screen and (min-widht: 768px) and (max-widht: 992px) {
+ @media screen and (min-width: 768px) and (max-width: 992px) {
     body {
         background-image: url(../imagens/back-tablet.jpg);
     }
@@ -47,7 +47,7 @@ High-res laptop or desktop: 1920 x 1080.
     
  }
 
- @media screen and (min-widht: 992px) and (max-widht: 1200px) /*Desktop*/ {
+ @media screen and (min-width: 992px) and (max-width: 1200px) /*Desktop*/ {
     body{
         background-image: url(../imagens/back-pc.jpg);
     }
@@ -58,7 +58,7 @@ High-res laptop or desktop: 1920 x 1080.
     img#tv{display: none;}
  }
 
- @media screen and (min-widht: 1200px) /*Grandes Telas*/{
+ @media screen and (min-width: 1200px) /*Grandes Telas*/{
     body{
         background-image: url(../imagens/back-tv.jpg);
     }
